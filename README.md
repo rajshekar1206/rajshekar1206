@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rajshekar Begari</h1>
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajshekar1206&label=Profile%20views&color=0e75b6&style=flat" alt="rajshekar1206" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajshekar1206" alt="rajshekar1206" /></a> </p>
