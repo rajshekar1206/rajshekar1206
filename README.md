@@ -1,18 +1,18 @@
-<!-- Typing animation banner -->
+<!-- Banner (optional if you add your own image later) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Rajshekar+👋;MERN+Stack+Developer+🚀;AI+%2B+IoT+Enthusiast+💡;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Lightning+Faster;MERN+Stack+Developer;AI+%2B+IoT+Enthusiast;Tech+is+not+just+my+career%2C+it's+my+calling+🚀" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 👋 About Me
 
-Hey there! I'm **Rajshekar**, a tech enthusiast with a passion for building intelligent systems that create real-world impact.
+Hi, I'm **Lightning Faster**, a passionate developer building smart, efficient, and meaningful digital experiences.
 
 - 💻 Full Stack Developer (MERN)
-- 📡 IoT tinkerer building smart devices
-- 🧠 Exploring AI and automation
-- 🎯 Currently focused on: **GPS tracking**, **IoT safety systems**, and **React Native**
+- 🧠 AI + IoT Innovator
+- 🚀 Currently working on: Real-time tracking & safety systems
+- 🎯 Goal: To merge intelligence with interaction
 
 ---
 
@@ -27,7 +27,7 @@ Hey there! I'm **Rajshekar**, a tech enthusiast with a passion for building inte
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
 
-**IoT & Hardware**  
+**IoT & Embedded**  
 ![ESP32](https://img.shields.io/badge/ESP32-323232?style=for-the-badge&logo=espressif)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino)
 
@@ -41,8 +41,8 @@ Hey there! I'm **Rajshekar**, a tech enthusiast with a passion for building inte
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rajshekar1206&show_icons=true&theme=radical" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajshekar1206&theme=radical" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical" width="47%" />
 </p>
 
 ---
@@ -68,8 +68,9 @@ Hey there! I'm **Rajshekar**, a tech enthusiast with a passion for building inte
 
 ### 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/b-rajshekar)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/rajshekar_.22)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/yourhandle)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel)](https://yourportfolio.com)
 
 ---
 
