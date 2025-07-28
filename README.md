@@ -18,4 +18,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajshekar1206&show_icons=true&locale=en&layout=compact" alt="rajshekar1206" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajshekar1206&show_icons=true&locale=en" alt="rajshekar1206" /></p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=rajshekar1206&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
